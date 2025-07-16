@@ -61,7 +61,6 @@ qa_model_configs = {
     },
     "Arabic": {
         "BERT": "mrm8488/bert-multi-cased-finetuned-xquadv1",
-        "XLM-Roberta (Multilingual)": "deepset/xlm-roberta-base-squad2",
         "XQuAD BERT (Arabic)": "mrm8488/bert-multi-cased-finetuned-xquadv1",
         "MultiBERT (Arabic)": "mrm8488/bert-multi-cased-finetuned-xquadv1"
     }
