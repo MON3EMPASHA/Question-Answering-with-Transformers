@@ -138,7 +138,7 @@ if context_mode == "Try Sample Data":
         show_reference = False
     else:
         question_list = recommended_questions
-        show_reference = True
+        show_reference = False
     
     if st.button("Get Answers") and context and question_list and selected_models:
         results = get_answers_from_models(context, question_list, selected_models, lang)
