@@ -171,4 +171,5 @@ else:
 st.sidebar.markdown("---")
 st.sidebar.markdown("**Links:**")
 st.sidebar.markdown("📊 [Kaggle Notebook](https://www.kaggle.com/code/abdelmonemhatem/question-answering-with-transformers)")
+st.sidebar.markdown("🖥️ [Github repo](https://github.com/MON3EMPASHA/Question-Answering-with-Transformers.git)")
 st.sidebar.markdown("👨‍💻 [Portfolio](https://abdelmonem-hatem.netlify.app/)") 
